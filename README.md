@@ -1,2 +1,2 @@
-# Repositorio-sobre-Git-GitHub
+# Repositório-sobre-Git/GitHub
 Desafio de Projeto
